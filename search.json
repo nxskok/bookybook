@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "bookybook",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nHere are some random normals to be going along with:\n\nrnorm(10)\n\n [1]  0.21937810 -0.77744849  1.05862290 -0.92198019 -2.07843230 -0.54013418\n [7]  0.71623595  0.87755525 -0.03354506  0.10680661"
   },
   {
     "objectID": "intro.html",
